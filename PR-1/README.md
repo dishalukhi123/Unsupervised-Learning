@@ -51,3 +51,10 @@ pip install -r requirements.txt
 jupyter notebook UL_PR1.ipynb
 ```
 Make sure `Mall_Customers.csv` (downloaded from the Kaggle URL above) is in the same directory.
+
+
+## 🏠 Home Page ( Recorded Video )
+
+> [Add Screenshot Here](https://drive.google.com/file/d/17l4K2QoegqIwnAU5VO1HRQa1cGx8VrPD/view?usp=sharing)
+
+---
