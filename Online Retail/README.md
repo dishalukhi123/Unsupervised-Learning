@@ -35,3 +35,12 @@ Champions, At-Risk, Hibernating).
 | 2 | At-Risk | Mid-High | Mid | Mid | Discount coupon (7-day expiry) |
 | 3 | Hibernating | High | Low | Low | Win-back campaign |
 | 4 | New Customers | Low | Low | Low-Mid | Onboarding series |
+
+
+
+
+## 🏠 Home Page ( Recorded Video )
+
+> [Add Screenshot Here](https://drive.google.com/drive/folders/1jALHllQdHXEeE-rQwBNdbGqjfXxMuBy8?q=type:video%20parent:1jALHllQdHXEeE-rQwBNdbGqjfXxMuBy8)
+
+---
